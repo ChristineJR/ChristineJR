@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChristineJR.
 - 👀 I’m interested in reading.
-- 🌱 I’m currently learning Computer Science and Mathematics & Its Applications(Probability/Statistics).
-- 💞️ I’m looking to collaborate on projects for beginners.
+- 🌱 I have graduated from U of T with HBsc in Computer Science and Mathematics & Its Applications(Probability/Statistics).
+- 💞️ I’m looking to collaborate on projects for beginners, also seeking for an entry-level programmer job.
 - 📫 You can reach me by leaving a comment.
 
 <!---
